@@ -4,11 +4,12 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author German
+ * @fecha 2016-03-19
  */
 public class Main {
 
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "Bienvenido");
+        JOptionPane.showMessageDialog(null, "Bienvenid@");
     }
-
+    
 }
